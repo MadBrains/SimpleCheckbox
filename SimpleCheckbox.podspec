@@ -22,7 +22,7 @@ s.source = { :git => "https://github.com/Feskoxoxo/SimpleCheckbox.git",
 s.frameworks = "UIKit", "Foundation"
 
 # 8
-s.source_files = "checkbox/**/*.{swift}"
+s.source_files = "SimpleCheckbox/**/*.{swift}"
 
 # 10
 s.swift_version = "5.0"
