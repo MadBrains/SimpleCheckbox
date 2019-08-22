@@ -3,12 +3,12 @@ Pod::Spec.new do |s|
 # 1
 s.platform = :ios
 s.ios.deployment_target = '10.0'
-s.name = "PageMenuPGMS"
-s.summary = "PageMenuPGMS create page menu"
+s.name = "SimpleCheckbox"
+s.summary = "SimpleCheckbox copy and update"
 s.requires_arc = true
 
 # 2
-s.version = "1.6.2"
+s.version = "1.6.3"
 
 # 3
 s.license = { :type => "MIT", :file => "LICENSE" }
